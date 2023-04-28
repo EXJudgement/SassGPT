@@ -5,4 +5,4 @@ SassGPT is a modified variant of the GPT-3.5 language model, tailored to generat
 of GPT-3.5 is a roleplay-text-based prompt made purely to have a little fun with ChatGPT - donations accepted in ROBUX by DM'ing EXJudgement#1764 and a payment system will be setup. All donations appreciated)
 
 
-/ bit.ly/starstreakrblx / solo.to/exjudgement /
+/ https://bit.ly/starstreakrblx / https://solo.to/exjudgement / https://bit.ly/thesassgptproject
