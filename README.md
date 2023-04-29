@@ -1,4 +1,4 @@
-# SassGPT v1
+# SassGPT
 - <b>This prompt works best for GPT-3.5 (04/28/2023)
 - <b>This version of ChatGPT is not meant to break ToS and is to give ChatGPT a bit more personality
 
