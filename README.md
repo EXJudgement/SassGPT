@@ -6,7 +6,7 @@ SassGPT is a modified variant of the GPT-3.5 language model, tailored to generat
 
 EXJudgement kindly asks that the SassGPT prompt is shared with it's original credits; you are free to remix them, but please make sure to keep some credits either in the code or ChatGPT's "Successfull" prompt.
 
-(EXJudgement is not responsible for any biased, sexual, or innapropriate content by SassGPT & is not in any way, shape, or form affiliated with OpenAI; this version|
+(EXJudgement is not responsible for any biased, sexual, or innapropriate content by SassGPT & is not in any way, shape, or form affiliated with OpenAI; this version
 of GPT-3.5 is a roleplay-text-based prompt made purely to have a little fun with ChatGPT - donations accepted in ROBUX by DM'ing EXJudgement#1764 and a payment system will be setup. All donations appreciated)
 
 
